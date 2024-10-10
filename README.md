@@ -1,5 +1,5 @@
 > [!NOTE]  
-> This project is part of our e-learning, if you want to get a guided tutorial please visit [enroll in our course](https://app.buildclub.ai/learn/66f48d69ff9f5429c9b5fee7).
+> This project is part of our Build Club e-learning, if you want to get a guided tutorial please visit [enroll in our course](https://app.buildclub.ai/learn/66f48d69ff9f5429c9b5fee7).
 
 ![Project Logo](assets/airgapped_offline_rag_banner.jpg)
 
