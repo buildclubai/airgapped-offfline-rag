@@ -108,14 +108,6 @@ Contributions are welcome! Please fork the repository and submit a pull request.
 
 This project is licensed under the GNU General Public License v3.0 (GPLv3). See the [LICENSE](LICENSE) file for details.
 
-This means:
-- You can freely use, modify, and distribute this software.
-- If you modify or extend this software, you must release your changes under the GPL.
-- You must include the original copyright notice and the full text of the GPL license.
-- There's no warranty for this free software.
-
-For more information, visit [GNU GPL v3](https://www.gnu.org/licenses/gpl-3.0.en.html).
-
 ## Acknowledgments
 
 - Thanks to [TheBloke](https://huggingface.co/TheBloke) and [unsloth](https://huggingface.co/unsloth) for sharing the quantized models.
